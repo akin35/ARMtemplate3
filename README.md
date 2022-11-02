@@ -1,4 +1,5 @@
-## asssignment3
+## createing RG vith ARM template
+
 
 0. Use Bash/PowerShell to create a <MyResourceGroup> resource group.
 To check your resource group you can go to the Azure portal. 
